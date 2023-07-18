@@ -1,0 +1,4 @@
+/home/flo/Nextcloud/Projects/TUM/isd/build/CMakeFiles/isd.dir
+/home/flo/Nextcloud/Projects/TUM/isd/build/CMakeFiles/format.dir
+/home/flo/Nextcloud/Projects/TUM/isd/build/CMakeFiles/edit_cache.dir
+/home/flo/Nextcloud/Projects/TUM/isd/build/CMakeFiles/rebuild_cache.dir
